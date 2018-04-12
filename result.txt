@@ -1,0 +1,13 @@
+ python test_amazon.py 
+ 
+ done
+ Title =  The Condensed Chemical Dictionary; A Reference Volume for All Requiring Quick Access to a Large Amount of Essential Data Regarding Chemicals, and ... Used in Manufacturing and Laboratory Work
+ Author =  Inc Chemical Catalog Company
+ Paperback Price =  1,499
+ Hard Cover Price =  3,115.91
+ .
+ ----------------------------------------------------------------------
+ Ran 1 test in 17.753s
+
+ OK
+
